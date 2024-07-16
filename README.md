@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,docker,django,linux,bootstrap,c,cpp" width="30" />
+    <img src="https://skillicons.dev/icons?i=py,js,docker,django,linux,bootstrap,c,cpp" width="100" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="30" />
+    <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="100" />
   </a>
 </p>
 
