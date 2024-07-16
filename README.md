@@ -1,8 +1,11 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Software Developer</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -14,17 +17,6 @@
     ·
     <a href="https://inerttila.github.io/Me/"> Templates </a>
   </p>
-</div>
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer | Python, Django, JavaScript | Docker | Cloud Computing | Web Development</h2></summary>
-  </ul>
 </div>
 
 <p align="center">
