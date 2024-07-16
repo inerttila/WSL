@@ -1,4 +1,3 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br />
@@ -7,7 +6,7 @@
   <h3 align="center">Software Developer</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Creating innovative and efficient solutions. Explore my projects below.
     <br />
     <br />
     <a href="https://inert.netlify.app/"> Software Development Services </a>
