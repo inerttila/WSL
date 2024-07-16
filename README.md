@@ -12,9 +12,7 @@
     <br />
     <a href="https://inert.netlify.app/"> Software Development Services </a>
     ·
-    <a href="https://inerttila.github.io/Me/"> Some of My Works </a>
-    ·
-    <a href="https://inerttila.github.io/Me/"> Templates </a>
+    <a href="https://inerttemp.netlify.app/"> Some of My Works </a>
   </p>
 </div>
 
