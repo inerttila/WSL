@@ -23,6 +23,11 @@
   </p>
 </div>
 
+<td>Hosting</td>
+<td><img src="https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white&style=for-the-badge" alt="Github Pages">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+</tr>
+
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
